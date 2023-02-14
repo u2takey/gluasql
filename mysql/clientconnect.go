@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	util "github.com/tengattack/gluasql/util"
+	util "github.com/u2takey/gluasql/util"
 	lua "github.com/yuin/gopher-lua"
 )
 

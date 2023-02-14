@@ -4,8 +4,8 @@ import (
 	"reflect"
 
 	"github.com/junhsieh/goexamples/fieldbinding/fieldbinding"
-	util "github.com/tengattack/gluasql/util"
-	"github.com/yuin/gopher-lua"
+	util "github.com/u2takey/gluasql/util"
+	lua "github.com/yuin/gopher-lua"
 )
 
 func clientQueryMethod(L *lua.LState) int {

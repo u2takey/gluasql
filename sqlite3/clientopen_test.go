@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tengattack/gluasql"
-	util "github.com/tengattack/gluasql/util"
-	"github.com/yuin/gopher-lua"
+	"github.com/u2takey/gluasql"
+	util "github.com/u2takey/gluasql/util"
+	lua "github.com/yuin/gopher-lua"
 )
 
 func TestClientOpen(t *testing.T) {

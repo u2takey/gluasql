@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tengattack/gluasql"
-	"github.com/yuin/gopher-lua"
+	"github.com/u2takey/gluasql"
+	lua "github.com/yuin/gopher-lua"
 )
 
 func TestClientSetTimeout(t *testing.T) {

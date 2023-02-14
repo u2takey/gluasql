@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	util "github.com/tengattack/gluasql/util"
-	"github.com/yuin/gopher-lua"
+	util "github.com/u2takey/gluasql/util"
+	lua "github.com/yuin/gopher-lua"
 )
 
 func testLuaState() *lua.LState {
